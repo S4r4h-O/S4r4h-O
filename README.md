@@ -27,6 +27,7 @@ I'm a junior developer learning something new every day.
 <p align="center">
   <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-1793D1?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
