@@ -1,11 +1,9 @@
 <h1 align="center">Sarah O.</h1>
 
 <p align="center">
-  <img src="https://brandslogos.com/wp-content/uploads/images/python-logo.png" alt="Python Logo" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://pluspng.com/img-png/react-logo-png-js-logo-react-react-js-icon-512x512.png" alt="React Logo" width="80" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://brandslogos.com/wp-content/uploads/images/django-logo.png" alt="Django Logo" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </p>
 
 
@@ -26,9 +24,8 @@ I'm a junior developer learning something new every day.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-1793D1?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </p>
 
 
