@@ -1,38 +1,33 @@
-<h1 align="center">Sarah O.</h1>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="200" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="200" />
-</p>
+# Sarah Oliveira
 
+## About me
 
-## About Me  
-I'm a junior developer learning something new every day.  
+I am just a junior dev learning something new everyday.
 
+## Technologies
 
-## Skills
+**Languages**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+[![Languages](https://skillicons.dev/icons?i=python,ts,java)](https://skillicons.dev)
 
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=git,docker,linux)](https://skillicons.dev)
+
+**IDEs**
+
+[![IDEs](https://skillicons.dev/icons?i=idea,neovim)](https://skillicons.dev)
 
 ## Currently Learning
+[![](https://skillicons.dev/icons?i=java,ts,latex)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge&logo=academia&logoColor=white" height="200" />
-  <img src="https://img.shields.io/badge/-TypeScript-1793D1?style=for-the-badge&logo=typescript&logoColor=white" height="200" />
-  <img src="https://img.shields.io/badge/-JAVA-ea2d2e?style=for-the-badge&logo=openjdk&logoColor=white&color=%23ea2d2e" height="200" />
-</p>
+![Mathematics](https://img.shields.io/badge/-∑%20Mathematics-6E4B7B?style=flat-square) ![Algorithms](https://img.shields.io/badge/-λ%20Algorithms-2E7D32?style=flat-square)
 
 
 ## Environment
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-</p>
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
+![Niri](https://img.shields.io/badge/-Niri-5E81AC?style=flat&logoColor=white)
+![zsh](https://img.shields.io/badge/-zsh-1A9E41?style=flat&logoColor=white)
