@@ -20,14 +20,11 @@ I am just a junior dev learning something new everyday.
 [![IDEs](https://skillicons.dev/icons?i=idea,neovim)](https://skillicons.dev)
 
 ## Currently Learning
-[![](https://skillicons.dev/icons?i=java,ts,latex)](https://skillicons.dev)
-
-![Mathematics](https://img.shields.io/badge/-∑%20Mathematics-6E4B7B?style=flat-square) ![Algorithms](https://img.shields.io/badge/-λ%20Algorithms-2E7D32?style=flat-square)
-
+<img src="https://skillicons.dev/icons?i=java" height="45" />&nbsp;<img src="https://skillicons.dev/icons?i=ts" height="45" />&nbsp;<img src="https://skillicons.dev/icons?i=latex" height="45" />&nbsp;<img src="https://raw.githubusercontent.com/S4r4h-O/my-icons/refs/heads/main/math.svg" height="45" />&nbsp;<img src="https://raw.githubusercontent.com/S4r4h-O/my-icons/refs/heads/main/algorithms.svg" height="45" />
 
 ## Environment
 
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
-![Niri](https://img.shields.io/badge/-Niri-5E81AC?style=flat&logoColor=white)
-![zsh](https://img.shields.io/badge/-zsh-1A9E41?style=flat&logoColor=white)
+![Arch Linux](https://raw.githubusercontent.com/S4r4h-O/my-icons/refs/heads/main/arch-white.svg)
+![Fedora](https://raw.githubusercontent.com/S4r4h-O/my-icons/refs/heads/main/fedora.svg)
+![Niri](https://raw.githubusercontent.com/S4r4h-O/my-icons/refs/heads/main/niri.svg)
+![zsh](https://raw.githubusercontent.com/S4r4h-O/my-icons/refs/heads/main/zsh.svg)
