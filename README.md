@@ -1,4 +1,3 @@
-
 # Sarah Oliveira
 
 ## About me
@@ -28,3 +27,7 @@ I am just a junior dev learning something new everyday.
 ![Fedora](https://raw.githubusercontent.com/S4r4h-O/my-icons/refs/heads/main/fedora.svg)
 ![Niri](https://raw.githubusercontent.com/S4r4h-O/my-icons/refs/heads/main/niri.svg)
 ![zsh](https://raw.githubusercontent.com/S4r4h-O/my-icons/refs/heads/main/zsh.svg)
+
+## My resume
+
+https://s4r4h-o.github.io/resume/en/
