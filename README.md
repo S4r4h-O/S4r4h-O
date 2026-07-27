@@ -2,7 +2,7 @@
 
 ## About me
 
-I am just a junior dev learning something new everyday.
+I am just someone learning something new everyday.
 
 ## Technologies
 
